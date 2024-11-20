@@ -24,7 +24,7 @@ The dashboard consist of the following charts
 3. Teams with the Highest Total Goals Scored Across All Seasons
 4. The Best Overall Team Across All Seasons
 5. Goals Scored vs Goals Conceded by Each Team Across All Seasons
-6. ins vs Goals Scored Relationship
+6. Wins vs Goals Scored Relationship
 7. Wins vs Goals Conceded Relationship
 8. Teams with the Fewest Appearances in the Premier League
 9. Top 10 Teams with the Most Top 3 Finishes
