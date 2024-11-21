@@ -1,4 +1,4 @@
-About the File
+About the Dataset
 
 The json file contains detailed Premier League statistics from the inaugural season in 1992/93 to 2018/19. It includes information about team performances for each season, such as:
 
