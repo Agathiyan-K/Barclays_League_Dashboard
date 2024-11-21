@@ -1,25 +1,24 @@
 Acknowledgement for the Dataset - Mr. Dhiraj Sharma (https://github.com/sharmadhiraj/free-json-datasets/blob/master/datasets/premier-league-points-table.json)
 
-#About the Dataset
+# About the Dataset
 
-- The json file contains detailed Premier League statistics from the inaugural season in 1992/93 to 2018/19. It includes information about team performances for each season, such as:
+The json file contains detailed Premier League statistics from the inaugural season in 1992/93 to 2018/19. It includes information about team performances for each season, such as:
 
-Position: Final league standing.
-Team: The name of the team.
-Played: Total matches played in the season.
-Points: Total points earned (3 for a win, 1 for a draw, 0 for a loss).
-Goal Difference: Goals scored minus goals conceded.
-Wins, Draws, Losses: Number of matches won, drawn, and lost.
-Goals Scored: Total goals scored by the team.
-Goals Against: Total goals conceded by the team.
+- Position: Final league standing.
+- Team: The name of the team.
+- Played: Total matches played in the season.
+- Points: Total points earned (3 for a win, 1 for a draw, 0 for a loss).
+- Goal Difference: Goals scored minus goals conceded.
+- Wins, Draws, Losses: Number of matches won, drawn, and lost.
+- Goals Scored: Total goals scored by the team.
+- Goals Against: Total goals conceded by the team.
 
-Key Context
-The Premier League is one of the most competitive and widely followed football leagues globally.
-This dataset highlights trends in team performances, including dominance by top clubs like Manchester United, Chelsea, Arsenal, Liverpool, and Manchester City.
-It also captures the struggles of teams often relegated to lower divisions, such as Derby County, Huddersfield Town, and Sunderland.
+## Key Context
+- The Premier League is one of the most competitive and widely followed football leagues globally.
+- This dataset highlights trends in team performances, including dominance by top clubs like Manchester United, Chelsea, Arsenal, Liverpool, and Manchester City.
+- It also captures the struggles of teams often relegated to lower divisions, such as Derby County, Huddersfield Town, and Sunderland.
 
-
-The dashboard consist of the following charts
+### The dashboard consist of the following charts
 
 1. Teams with the Most Appearances in the Premier League
 2. Top 6 Teams Across All Seasons (wrt position)
