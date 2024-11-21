@@ -38,3 +38,7 @@ The json file contains detailed Premier League statistics from the inaugural sea
 16. Word Cloud Highlighting the Worst Teams
 17. Average Goals Scored Per Team Across All Seasons
 18. Average Points Secured Per Team Across All Seasons
+
+![Dashboard - Barclays League](https://github.com/user-attachments/assets/ca917a68-ab9c-45c6-9511-d23c873e0570)
+
+
