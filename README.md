@@ -1,6 +1,8 @@
+Acknowledgement for the Dataset - Mr. Dhiraj Sharma (https://github.com/sharmadhiraj/free-json-datasets/blob/master/datasets/premier-league-points-table.json)
+
 About the Dataset
 
-The json file contains detailed Premier League statistics from the inaugural season in 1992/93 to 2018/19. It includes information about team performances for each season, such as:
+- The json file contains detailed Premier League statistics from the inaugural season in 1992/93 to 2018/19. It includes information about team performances for each season, such as:
 
 Position: Final league standing.
 Team: The name of the team.
