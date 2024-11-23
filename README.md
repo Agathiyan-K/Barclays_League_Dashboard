@@ -1,4 +1,6 @@
-Acknowledgement for the Dataset - Mr. Dhiraj Sharma (https://github.com/sharmadhiraj/free-json-datasets/blob/master/datasets/premier-league-points-table.json)
+#Analysis of the Teams in Barclays Premier League between 1992 to 2018
+
+Acknowledgement for the Dataset - [Mr. Dhiraj Sharma](#https://github.com/sharmadhiraj/free-json-datasets/blob/master/datasets/premier-league-points-table.json)
 
 # About the Dataset
 
